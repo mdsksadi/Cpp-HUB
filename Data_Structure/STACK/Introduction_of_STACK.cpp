@@ -1,3 +1,8 @@
+/*#######################################
+#             MD Shekh Sadi            #
+#        sadiewu12345@gmail.com        #
+#######################################*/
+
 #include<iostream>
 #include<stack>
 

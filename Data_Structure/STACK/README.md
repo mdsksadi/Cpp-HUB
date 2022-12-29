@@ -17,4 +17,4 @@
 # Steps:
   1. include "stack" header file.
   2. stack<type of element (eg. int)>numbersStack(name of the stack)
-  3. 
+  3. Continue.......
