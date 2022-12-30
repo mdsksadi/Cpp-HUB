@@ -1,3 +1,7 @@
+># MD Shekh Sadi
+> ***sadiewu12345@gmail.com***
+
+
 # What is STACK?
 * STACK is a type of data collection which use LIFO (Last in first out) technique in order to store element. We can also say:
   * FILO (First in last out)
